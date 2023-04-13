@@ -1,0 +1,122 @@
+{
+    "537307": {
+        "article_date_timestamp": 1680181421.0,
+        "article_title": "Google: поставщики коммерческого шпионского ПО имеют доступ к эксплойтам нулевого дня",
+        "article_url": "https://www.securitylab.ru/news//news/537307.php",
+        "article_desc": "Компании эксплуатировали исправленные уязвимости для шпионских атак на iOS и Android."
+    },
+    "537305": {
+        "article_date_timestamp": 1680178831.0,
+        "article_title": "США выделит $25 млн. на восстановление систем Коста-Рики после кибератаки группы Conti",
+        "article_url": "https://www.securitylab.ru/news//news/537305.php",
+        "article_desc": "В стране также будет создан центр по предотвращению угроз и контроля за инфраструктурой."
+    },
+    "537298": {
+        "article_date_timestamp": 1680177000.0,
+        "article_title": "Маленькая ошибка в коде DeFi-платформы SafeMoon позволила злоумышленникам «выкачать» криптовалюту почти на 9 миллионов долларов",
+        "article_url": "https://www.securitylab.ru/news//news/537298.php",
+        "article_desc": "Интересные обстоятельства атаки сбивают с толку даже экспертов."
+    },
+    "537302": {
+        "article_date_timestamp": 1680174000.0,
+        "article_title": "Хакерам из Infraud Organization вынесен приговор за кражу банковских данных на 1 млрд. рублей",
+        "article_url": "https://www.securitylab.ru/news//news/537302.php",
+        "article_desc": "Киберпреступникам грозило до 7 лет тюрьмы, но обстоятельства сократили срок до условного."
+    },
+    "537295": {
+        "article_date_timestamp": 1680170782.0,
+        "article_title": "Импортозамещение сетевой безопасности: всё о MaxPatrol SIEM",
+        "article_url": "https://www.securitylab.ru/news//news/537295.php",
+        "article_desc": "4 апреля в 12:00 (МСК) состоится Практический вебинар по SIEM-системе от Positive Technologies."
+    },
+    "537294": {
+        "article_date_timestamp": 1680168229.0,
+        "article_title": "Браузер-преступник: как злоумышленники используют Tor для кражи крипты",
+        "article_url": "https://www.securitylab.ru/news//news/537294.php",
+        "article_desc": "Лаборатория Касперского обнаружила коварную кампанию кражи криптовалюты."
+    },
+    "537293": {
+        "article_date_timestamp": 1680125400.0,
+        "article_title": "Утечек боятся все: занимательная статистика по инсайдерским угрозам от Code42",
+        "article_url": "https://www.securitylab.ru/news//news/537293.php",
+        "article_desc": "Специалисты по кибербезопасности считают утечки данных даже более сложными угрозами, чем атаки программ-вымогателей."
+    },
+    "537290": {
+        "article_date_timestamp": 1680118200.0,
+        "article_title": "Самоотверженные хакеры: северокорейская APT43 проводит шпионские операции за свой счёт",
+        "article_url": "https://www.securitylab.ru/news//news/537290.php",
+        "article_desc": "Работающая в интересах КНДР киберпреступная группировка не нуждается во внешнем источнике финансирования."
+    },
+    "537289": {
+        "article_date_timestamp": 1680113400.0,
+        "article_title": "Microsoft разрабатывает новую операционную систему с модульностью и оптимизацией под разные устройства",
+        "article_url": "https://www.securitylab.ru/news//news/537289.php",
+        "article_desc": "Искусственный интеллект станет одной из главных фишек новой Windows"
+    },
+    "537287": {
+        "article_date_timestamp": 1680111002.0,
+        "article_title": "Недостаток кадров и угрозы безопасности - какие риски несут компании без адекватной подготовки киберспециалистов?",
+        "article_url": "https://www.securitylab.ru/news//news/537287.php",
+        "article_desc": "Опрос среди лидеров ИБ-команд показал неутешительную статистику кибербезопасности организаций."
+    },
+    "537288": {
+        "article_date_timestamp": 1680110742.0,
+        "article_title": "Битва против ИИ-апокалипсиса: Маск, Возняк и другие требуют приостановить разработку опасного ИИ",
+        "article_url": "https://www.securitylab.ru/news//news/537288.php",
+        "article_desc": "Создание систем, умнее GPT-4, может привести к захвату нейросетями контроля над человечеством."
+    },
+    "537286": {
+        "article_date_timestamp": 1680109200.0,
+        "article_title": "Транспортный сектор на грани киберкатастрофы: рост вымогательских атак тревожит экспертов",
+        "article_url": "https://www.securitylab.ru/news//news/537286.php",
+        "article_desc": "Эксперты уверены, в ближайшем будущем злоумышленники только нарастят обороты."
+    },
+    "537285": {
+        "article_date_timestamp": 1680107428.0,
+        "article_title": "Серверы LockBit в руках ФБР? Группировка столкнулась с проблемами инфраструктуры",
+        "article_url": "https://www.securitylab.ru/news//news/537285.php",
+        "article_desc": "Эксперты предполагают причастность спецслужб."
+    },
+    "537310": {
+        "article_date_timestamp": 1680186739.0,
+        "article_title": "Джо Байден продлил режим ЧС на год из-за продолжающихся кибератак",
+        "article_url": "https://www.securitylab.ru/news//news/537310.php",
+        "article_desc": "США продолжают борьбу с киберпреступниками для защиты политики и экономики страны."
+    },
+    "537308": {
+        "article_date_timestamp": 1680183000.0,
+        "article_title": "QNAP Systems, широко известная в NAS-отрасли, призывает клиентов срочно обновить своё программное обеспечение",
+        "article_url": "https://www.securitylab.ru/news//news/537308.php",
+        "article_desc": "Выявленная уязвимость затрагивает сразу несколько продуктов компании, в опасности десятки тысяч устройств."
+    },
+    "537312": {
+        "article_date_timestamp": 1680199500.0,
+        "article_title": "Казалось бы, причём тут нейросети: Папа Римский в дутом пуховике покоряет Интернет",
+        "article_url": "https://www.securitylab.ru/news//news/537312.php",
+        "article_desc": "Очередная фотореалистичная генерация от Midjourney ловко обманула множество пользователей социальных сетей."
+    },
+    "537311": {
+        "article_date_timestamp": 1680195600.0,
+        "article_title": "Instagram*-мошенник, прозвавший себя «Log-out king», терроризирует известных медийных личностей",
+        "article_url": "https://www.securitylab.ru/news//news/537311.php",
+        "article_desc": "Хакер удаляет чужие аккаунты и требует деньги за восстановление, сотрудники Meta* бессильны."
+    },
+    "537313": {
+        "article_date_timestamp": 1680209100.0,
+        "article_title": "«Лиса-пришелец» массово похищает данные из облачных сервисов",
+        "article_url": "https://www.securitylab.ru/news//news/537313.php",
+        "article_desc": "Новый инструментарий под названием «AlienFox» нацелен на серверы 18 различных почтовых платформ."
+    },
+    "537318": {
+        "article_date_timestamp": 1680216328.0,
+        "article_title": "Melofee: новый вредонос китайских хакеров, нацеленный на серверы Linux",
+        "article_url": "https://www.securitylab.ru/news//news/537318.php",
+        "article_desc": "Неизвестные хакеры, новый вредонос, но старые функции. Что подготовил Melofee для серверов Linux?"
+    },
+    "537316": {
+        "article_date_timestamp": 1680213900.0,
+        "article_title": "Уязвимость «BingBang» позволяет изменять результаты поисковой выдачи Bing и даже захватывать учётные записи пользователей",
+        "article_url": "https://www.securitylab.ru/news//news/537316.php",
+        "article_desc": "Никакой ИИ уже не поможет Microsoft опередить Google в сфере интернет-поиска."
+    }
+}
